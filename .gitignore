@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+outputs/
+*.png
+*.pdf
+*.json
